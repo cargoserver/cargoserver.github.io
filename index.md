@@ -1,3 +1,3 @@
 # Welcome to CargoServer
 
-This is a placeholder.
+Please see our website https://cargoserver.ch for details.
